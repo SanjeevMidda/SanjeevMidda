@@ -42,8 +42,6 @@ Some awesome things, if I may say so myself, I've been working on below.
 <img align="left" alt="Sanjeev Midda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-
-
 <!--
 **SanjeevMidda/SanjeevMidda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

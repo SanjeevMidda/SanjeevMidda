@@ -21,12 +21,14 @@ Some awesome things, if I may say so myself, I've been working on below.
 ### Languages & Tools
   <ul>
     <li>React</li>
+    <li>Redux</li>
     <li>Vanilla JS</li>
     <li>CSS</li>
     <li>Bootstrap</li>
     <li>HTML</li>
-    <li>MongoDB</li>
+    <li>Node</li>
     <li>Express</li>
+    <li>MongoDB</li>
   </ul>
 
 ### Contact

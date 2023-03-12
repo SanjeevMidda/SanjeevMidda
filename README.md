@@ -1,8 +1,6 @@
-## 👋 My name is Sanjeev. Welcome! <img src="https://github.com/SanjeevMidda/Wave/blob/main/waving-hi.gif" width="50" height="50"/>
+## <img src="https://github.com/SanjeevMidda/Wave/blob/main/waving-hi.gif" width="30" height="30"/> My name is Sanjeev. Welcome!
 
 ### London based full-stack web developer. Turning problems into solutions.
-
-<img src="https://github.com/SanjeevMidda/Wave/blob/main/waving-hi.gif" width="50" height="50"/>
 
 Some things I've been working on can be found below. Feel free to have a look around 🙂
 

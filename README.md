@@ -1,4 +1,4 @@
-## 👋 my name is Sanjeev. Welcome!
+## 👋 My name is Sanjeev. Welcome!
 
 ### London based full-stack web developer turning problems into solutions.
 

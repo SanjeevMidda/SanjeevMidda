@@ -34,8 +34,8 @@ Some things I've been working on can be found below. Feel free to have a look ar
 ### Contact
 <p>You can find me over at:</p>
 
-<a href="https://twitter.com/sanjeev_midda">
-<img align="left" alt="Sanjeev Midda" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://sanjeevmidda.framer.website">
+<img align="left" alt="Sanjeev Midda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/portfolio.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sanjeev-midda-845302257/">
 <img align="left" alt="Sanjeev Midda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

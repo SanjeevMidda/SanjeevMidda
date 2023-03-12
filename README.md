@@ -2,8 +2,7 @@
 
 ### London based full-stack web developer. Turning problems into solutions.
 
-![](https://github.com/SanjeevMidda/Wave/blob/main/waving-hi.gif)
-<img src="https://github.com/SanjeevMidda/Wave/blob/main/waving-hi.gif" width="250" height="250"/>
+<img src="https://github.com/SanjeevMidda/Wave/blob/main/waving-hi.gif" width="150" height="150"/>
 
 Some things I've been working on can be found below. Feel free to have a look around 🙂
 

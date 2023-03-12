@@ -3,7 +3,7 @@
 ### A passionate full-stack web developer perusing the lines between code working | stack-overflow | and code not working. Ah, also, React developer.
 
 
-Some awesome things, if I may say so myself, I've been working on below.
+Some things I've been working on can be found below. Feel free to have a look around 🙂
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/110365686/211354259-ee233def-e7f7-4876-8174-d823baf0e057.JPG">

@@ -2,6 +2,9 @@
 
 ### London based full-stack web developer. Turning problems into solutions.
 
+<a href="https://sanjeevmidda.framer.website">
+<img align="left" alt="Sanjeev Midda" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fwave-emoji-gifs&psig=AOvVaw0KtTwweQ1gWabvhRL1xCbL&ust=1678744487425000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCID03tmw1_0CFQAAAAAdAAAAABAQ" />
+</a>
 
 Some things I've been working on can be found below. Feel free to have a look around 🙂
 

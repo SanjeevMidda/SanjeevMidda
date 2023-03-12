@@ -41,7 +41,7 @@ Some things I've been working on can be found below. Feel free to have a look ar
 <img align="left" alt="Sanjeev Midda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://medium.com/@sanjeev_midda">
-<img align="left" alt="Sanjeev Midda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<img align="left" alt="Sanjeev Midda" width="22px" src="https://unpkg.com/simple-icons@v8/icons/medium.svg" />
 </a>
 
 <!--

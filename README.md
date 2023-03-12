@@ -1,4 +1,4 @@
-## <img src="https://github.com/SanjeevMidda/Wave/blob/main/waving-hi.gif" width="30" height="30"/> My name is Sanjeev. Welcome!
+## <img src="https://github.com/SanjeevMidda/Wave/blob/main/waving-hi.gif" width="50" height="50"/> My name is Sanjeev. Welcome!
 
 ### London based full-stack web developer. Turning problems into solutions.
 

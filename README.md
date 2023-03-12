@@ -1,6 +1,6 @@
 ## 👋 my name is Sanjeev. Welcome!
 
-### A passionate full-stack web developer turning problems into solutions.
+### London based full-stack web developer turning problems into solutions.
 
 
 Some things I've been working on can be found below. Feel free to have a look around 🙂

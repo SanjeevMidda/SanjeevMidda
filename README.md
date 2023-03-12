@@ -22,13 +22,13 @@ Some things I've been working on can be found below. Feel free to have a look ar
   <ul>
     <li>React</li>
     <li>Redux</li>
-    <li>Vanilla JS</li>
-    <li>CSS</li>
-    <li>Bootstrap</li>
-    <li>HTML</li>
     <li>Node</li>
     <li>Express</li>
     <li>MongoDB</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Bootstrap</li>
+    <li>GIT</li>
   </ul>
 
 ### Contact

@@ -1,4 +1,4 @@
-## Hi there 👋 my name is Sanjeev. Welcome!
+##👋 my name is Sanjeev. Welcome!
 
 ### A passionate full-stack web developer perusing the lines between code working | stack-overflow | and code not working. Ah, also, React developer.
 

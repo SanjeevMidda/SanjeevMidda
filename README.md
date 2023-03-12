@@ -1,6 +1,6 @@
 ## 👋 my name is Sanjeev. Welcome!
 
-### A passionate full-stack web developer perusing the lines between code working | stack-overflow | and code not working.
+### A passionate full-stack web developer turning problems into solutions.
 
 
 Some things I've been working on can be found below. Feel free to have a look around 🙂

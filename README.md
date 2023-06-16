@@ -36,7 +36,7 @@ Some things I've been working on can be found below. Feel free to have a look ar
 ### Contact
 <p>You can find me over at:</p>
 
-<a href="https://sanjeevmidda.framer.website">
+<a href="https://sanjeev-midda-sanjeevmidda.vercel.app/">
 <img align="left" alt="Sanjeev Midda" width="22px" src="https://unpkg.com/simple-icons@v8/icons/angellist.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sanjeev-midda-845302257/">

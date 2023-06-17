@@ -18,21 +18,6 @@ Some things I've been working on can be found below. Feel free to have a look ar
 
 
 ### Languages & Tools
-  <ul>
-    <li>React</li>
-    <li>Typescript</li>
-    <li>Next JS</li>
-    <li>Redux</li>
-    <li>SQL</li>
-    <li>Node & Express</li>
-    <li>MongoDB & Mongoose</li>
-    <li>CSS & Bootstrap</li>
-    <li>Tailwind CSS</li>
-    <li>HTML</li>
-    <li>GIT</li>
-    <li>Open AI</li>
-  </ul>
-
 <picture>
   <img alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44px"   height="44px"/>
 </picture>

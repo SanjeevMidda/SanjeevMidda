@@ -36,7 +36,7 @@ Some things I've been working on can be found below. Feel free to have a look ar
 ### Contact
 
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="22px" height="22px"/>
           
 <p>You can find me over at:</p>
 

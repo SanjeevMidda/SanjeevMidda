@@ -58,6 +58,9 @@ Some things I've been working on can be found below. Feel free to have a look ar
   <img alt="mongodb logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="22px"   height="22px"/>
 </picture>
 <picture>
+  <img alt="firebase logo" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg)" width="22px"   height="22px"/>
+</picture>
+<picture>
   <img alt="tailwind css logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="22px"   height="22px"/>
 </picture>
 <picture>

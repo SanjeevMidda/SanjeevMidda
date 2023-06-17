@@ -37,47 +37,47 @@ Some things I've been working on can be found below. Feel free to have a look ar
   <img alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44px"   height="44px"/>
 </picture>
 <picture>
-  <img alt="typescript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="22px" height="22px"/>
+  <img alt="typescript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44px" height="44px"/>
 </picture>
 <picture>
-    <img alt="next js logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="22px"   height="22px"/>
+    <img alt="next js logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="44px"   height="44px"/>
 </picture>
 <picture>  
-  <img alt="redux logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="22px"   height="22px"/>
+  <img alt="redux logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="44px"   height="44px"/>
 </picture>
 <picture>
 <picture>  
-  <img alt="js logo" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)" width="22px"   height="22px"/>
+  <img alt="js logo" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)" width="44px"   height="44px"/>
 </picture>
 <picture>
-  <img alt="SQL logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="22px"   height="22px"/>
+  <img alt="SQL logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="44px"   height="44px"/>
 </picture>
 <picture>
-  <img alt="node logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="22px"   height="22px"/>
+  <img alt="node logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="44px"   height="44px"/>
 </picture>
 <picture>
-  <img alt="express logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="22px"   height="22px"/>
+  <img alt="express logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="44px"   height="44px"/>
 </picture>
 <picture>
-  <img alt="mongodb logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="22px"   height="22px"/>
+  <img alt="mongodb logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="44px"   height="44px"/>
 </picture>
 <picture>
-  <img alt="firebase logo" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg)" width="22px"   height="22px"/>
+  <img alt="firebase logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="44px"   height="44px"/>
 </picture>
 <picture>
-  <img alt="tailwind css logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="22px"   height="22px"/>
+  <img alt="tailwind css logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="44px"   height="44px"/>
 </picture>
 <picture>
-  <img alt="sass logo" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)" width="22px"   height="22px"/>
+  <img alt="sass logo" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)" width="44px"   height="44px"/>
 </picture>
 <picture>
-  <img alt="html logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="22px"   height="22px"/>
+  <img alt="html logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="44px"   height="44px"/>
 </picture>
 <picture>
-  <img alt="git logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22px"   height="22px"/>
+  <img alt="git logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44px"   height="44px"/>
 </picture>
 <picture>
-  <img alt="figma logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="22px"   height="22px"/>
+  <img alt="figma logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="44px"   height="44px"/>
 </picture>
 
 ### Contact

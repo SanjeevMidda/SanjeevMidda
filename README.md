@@ -33,11 +33,25 @@ Some things I've been working on can be found below. Feel free to have a look ar
     <li>Open AI</li>
   </ul>
 
+<picture>
+  <img alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22px"   height="22px"/>
+   <img alt="typescript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="22px"   height="22px"/>
+    <img alt="next js logo" src="" width="22px"   height="22px"/>
+  <img alt="redux logo" src="" width="22px"   height="22px"/>
+  <img alt="SQL logo" src="" width="22px"   height="22px"/>
+  <img alt="node logo" src="" width="22px"   height="22px"/>
+  <img alt="express logo" src="" width="22px"   height="22px"/>
+  <img alt="mongodb logo" src="" width="22px"   height="22px"/>
+  <img alt="css logo" src="" width="22px"   height="22px"/>
+  <img alt="tailwind css logo" src="" width="22px"   height="22px"/>
+  <img alt="html logo" src="" width="22px"   height="22px"/>
+  <img alt="git logo" src="" width="22px"   height="22px"/>
+  <img alt="open ai logo" src="" width="22px"   height="22px"/>
+  <img alt="figma logo" src="" width="22px"   height="22px"/>
+</picture>
+
 ### Contact
 <p>You can find me over at:</p>
-<picture>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="22px" height="22px"/>
-          </picture>
           
 <a href="https://sanjeev-midda-sanjeevmidda.vercel.app/">
 <img align="left" alt="Sanjeev Midda" width="22px" src="https://unpkg.com/simple-icons@v8/icons/angellist.svg" />

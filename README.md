@@ -46,10 +46,11 @@ Some things I've been working on can be found below. Feel free to have a look ar
   <img alt="node logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="44px"   height="44px"/>
 </picture>
 
-<br>
 <picture>
   <img alt="express logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="44px"   height="44px"/>
 </picture>
+
+<br>
 
 <picture>
   <img alt="mongodb logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="44px"   height="44px"/>

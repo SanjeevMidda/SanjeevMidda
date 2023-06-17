@@ -35,7 +35,10 @@ Some things I've been working on can be found below. Feel free to have a look ar
 
 <picture>
   <img alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22px"   height="22px"/>
-   <img alt="typescript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="22px"   height="22px"/>
+</picture>
+<picture>
+  <img alt="typescript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="22px" height="22px"/>
+</picture>  
     <img alt="next js logo" src="" width="22px"   height="22px"/>
   <img alt="redux logo" src="" width="22px"   height="22px"/>
   <img alt="SQL logo" src="" width="22px"   height="22px"/>

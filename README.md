@@ -34,7 +34,7 @@ Some things I've been working on can be found below. Feel free to have a look ar
   </ul>
 
 <picture>
-  <img alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22px"   height="22px"/>
+  <img alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44px"   height="44px"/>
 </picture>
 <picture>
   <img alt="typescript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="22px" height="22px"/>
@@ -44,6 +44,10 @@ Some things I've been working on can be found below. Feel free to have a look ar
 </picture>
 <picture>  
   <img alt="redux logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="22px"   height="22px"/>
+</picture>
+<picture>
+<picture>  
+  <img alt="js logo" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)" width="22px"   height="22px"/>
 </picture>
 <picture>
   <img alt="SQL logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="22px"   height="22px"/>
@@ -62,6 +66,9 @@ Some things I've been working on can be found below. Feel free to have a look ar
 </picture>
 <picture>
   <img alt="tailwind css logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="22px"   height="22px"/>
+</picture>
+<picture>
+  <img alt="sass logo" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)" width="22px"   height="22px"/>
 </picture>
 <picture>
   <img alt="html logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="22px"   height="22px"/>

@@ -96,8 +96,7 @@ Some things I've been working on can be found below. Feel free to have a look ar
 <img align="left" alt="Sanjeev Midda" width="22px" src="https://unpkg.com/simple-icons@v8/icons/medium.svg" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SanjeevMidda&show_icons=true"/>
-<!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanjeevMidda"/><!--
 **SanjeevMidda/SanjeevMidda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

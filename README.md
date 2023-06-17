@@ -36,7 +36,7 @@ Some things I've been working on can be found below. Feel free to have a look ar
 ### Contact
 <p>You can find me over at:</p>
 <picture>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="22px" height="22px"/>
           </picture>
           
 <a href="https://sanjeev-midda-sanjeevmidda.vercel.app/">

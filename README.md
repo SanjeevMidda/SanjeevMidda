@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on creating a full stack web translation app, and yoga API. 
 - 🌱 I’m currently learning Vue js, prisma, and firebase.
 - ⚡ Fun fact: training to climb 🏔️ Everest
-<br>
 
 Some things I've been working on can be found below. Feel free to have a look around 🙂
 

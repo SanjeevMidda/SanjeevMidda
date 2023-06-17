@@ -34,6 +34,10 @@ Some things I've been working on can be found below. Feel free to have a look ar
   </ul>
 
 ### Contact
+
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+          
 <p>You can find me over at:</p>
 
 <a href="https://sanjeev-midda-sanjeevmidda.vercel.app/">

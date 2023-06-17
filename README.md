@@ -34,12 +34,11 @@ Some things I've been working on can be found below. Feel free to have a look ar
   </ul>
 
 ### Contact
-
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="22px" height="22px"/>
-          
 <p>You can find me over at:</p>
-
+<picture>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+          </picture>
+          
 <a href="https://sanjeev-midda-sanjeevmidda.vercel.app/">
 <img align="left" alt="Sanjeev Midda" width="22px" src="https://unpkg.com/simple-icons@v8/icons/angellist.svg" />
 </a>

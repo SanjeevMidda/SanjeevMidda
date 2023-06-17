@@ -3,7 +3,7 @@
 ### London based full-stack web developer. Turning problems into solutions.
 - 🔭 I’m currently working on creating a full stack web translation app, and yoga API. 
 - 🌱 I’m currently learning Vue js, prisma, and firebase.
-- ⚡ Fun fact: training to climb Mount Everest
+- ⚡ Fun fact: training to climb 🏔️ Everest
 
 <br>
 

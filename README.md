@@ -83,6 +83,11 @@ Some things I've been working on can be found below. Feel free to have a look ar
   <img alt="figma logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="44px"   height="44px"/>
 </picture>
 
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=SanjeevMidda&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SanjeevMidda&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeevMidda&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ### Contact
 <p>You can find me over at:</p>
           
